@@ -494,16 +494,9 @@ warnings
 
 **Rohit Kumar Singh**
 
-- 📧 Email: [Contact through GitHub](rohitsingh3640@gmail.com)
+- 📧 Email: [Send Email](rohitsingh3640@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/rohit-singh-336859247/)
 - 🐙 GitHub: [@Rohit-Singh-0](https://github.com/Rohit-Singh-0)
 
-
-## 🙏 Acknowledgments
-
-- E-commerce dataset source for providing comprehensive transaction data
-- Scikit-learn community for excellent machine learning tools
-- Jupyter Project for interactive development environment
-- Open source community for inspiration and best practices
 
 **⭐ If you find this project helpful, please consider giving it a star on GitHub!**
