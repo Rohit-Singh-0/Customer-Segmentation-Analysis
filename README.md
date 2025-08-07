@@ -21,8 +21,6 @@ A comprehensive machine learning project that leverages RFM analysis and K-means
 - [Performance Metrics](#performance-metrics)
 - [Business Impact](#business-impact)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 
